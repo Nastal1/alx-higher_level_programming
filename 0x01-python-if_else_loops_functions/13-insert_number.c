@@ -31,5 +31,3 @@ listint_t *insert_node(listint_t **head, int number)
 	node->next = new;
 	return (new);
 }
-Footer
-© 2022 GitHub
